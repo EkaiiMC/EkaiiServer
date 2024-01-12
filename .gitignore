@@ -1,0 +1,13 @@
+world/
+world_nether/
+world_the_end/
+bluemap/
+plugins/CoreProtect
+plugins/BlueMap
+plugins/Panilla.jar
+logs/
+libraries/
+cache/
+exit_codes/
+versions/
+plugins/LuckPerms/

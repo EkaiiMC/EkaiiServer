@@ -1,0 +1,20 @@
+# This is the main configuration file for Foldenor.
+
+verbose: false
+network:
+  appleskin-protocol: true
+  alternate-keepalive: true
+  send-null-entity-packets: true
+optimizations:
+  max_projectile_loads_per_projectile: 10
+  max_projectile_loads_per_tick: 10
+other:
+  vanila-end-portal-teleportation: false
+world:
+  region:
+    format: LINEAR
+    linear:
+      compression-level: 6
+      flush-frequency: 10
+      flush-max-threads: 6
+config-version: 1
