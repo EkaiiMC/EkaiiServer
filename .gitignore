@@ -11,3 +11,4 @@ cache/
 exit_codes/
 versions/
 plugins/LuckPerms/
+sync.sh
