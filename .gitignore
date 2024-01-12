@@ -4,6 +4,7 @@ world_the_end/
 bluemap/
 plugins/CoreProtect
 plugins/BlueMap
+plugins/DiscordSRV
 plugins/Panilla.jar
 logs/
 libraries/
